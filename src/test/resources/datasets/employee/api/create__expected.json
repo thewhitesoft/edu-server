@@ -1,0 +1,23 @@
+{
+  "token": [
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "owner": "Owner"
+    }
+  ],
+  "employee": [
+    {
+      "id": "regex:.+",
+      "token_id": "00000000-0000-0000-0000-000000000000",
+      "full_name": "Фамилия Имя",
+      "email": "text@mail.ru",
+      "password": "1aS512",
+      "phone": "+79999999999",
+      "profile_url": "https://github.com/tester",
+      "gender": "MALE",
+      "salary": 50000,
+      "birthday": "1992-7-2",
+      "comment": "comment"
+    }
+  ]
+}
